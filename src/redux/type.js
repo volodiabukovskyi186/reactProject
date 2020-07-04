@@ -1,0 +1,2 @@
+export const FETCH_POST='POST/FETCH_POST'
+export const DETAIL_POST='POST/DETAIL_POST'

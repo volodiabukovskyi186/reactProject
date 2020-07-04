@@ -1,0 +1,21 @@
+.conteiner{
+    width: 100%;
+    min-height: 100vh;
+    background-color: silver;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+
+}
+ul{
+    padding-inline-start: 0px;
+    
+}
+.btn{
+    width: 15px;
+    height: 60px;
+    background-color: slateblue;
+}
